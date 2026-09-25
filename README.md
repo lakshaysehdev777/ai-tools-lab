@@ -1,1 +1,1 @@
-# ai-tool-lab
+# ai-tools-lab
