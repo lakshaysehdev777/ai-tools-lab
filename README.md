@@ -35,4 +35,4 @@ The purpose of this repository is to practice version control, branching, commit
 
 ## Contributor
 
-- Lakshay Sehdev
+- **Lakshay Sehdev** ([@lakshayssehdev777](https://github.com/lakshayssehdev777))
