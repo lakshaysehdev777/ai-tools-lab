@@ -35,4 +35,7 @@ The purpose of this repository is to practice version control, branching, commit
 
 ## Contributor
 
-- **Lakshay Sehdev** ([@lakshayssehdev777](https://github.com/lakshayssehdev777))
+- **Lakshay Sehdev**
+  
+## Clone the repository
+- git clone ([@lakshayssehdev777](https://github.com/lakshayssehdev777))
