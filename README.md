@@ -32,3 +32,7 @@ The project demonstrates the basic Git and GitHub workflow:
 ## Purpose
 
 The purpose of this repository is to practice version control, branching, commits, pushing changes, and collaboration using Git and GitHub.
+
+## Contributor
+
+- Lakshay Sehdev
